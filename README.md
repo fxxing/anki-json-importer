@@ -4,9 +4,12 @@ JSON file importer for Anki
 [Download](https://ankiweb.net/shared/info/1219378844)
 
 # Features:
+
 *	Import json file based on the node type fields.
 *	Auto add medias.
+
 # Usage:
+
 1.	Create a node type named "JsonImporter", add fields and cards you need.
 	example: field1, field2 
 2.	The json file should be an array of objects.
